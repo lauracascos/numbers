@@ -1,5 +1,5 @@
 # Let's add a loop
-print "How many turns do you want to have?"
+print "How many turns do you want to have? "
 turn = gets.chomp.to_i
 correct_answer = 0
 
